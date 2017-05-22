@@ -2,15 +2,20 @@
   "name": "react-test",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
+  "dependencies": {    
     "grommet": "^1.4.0",
+    "material-auto-rotating-carousel": "^1.4.0",
     "material-ui": "^0.18.0",
     "material-ui-image": "^1.3.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
+    "react-router-dom": "^4.1.1",
+    "react-slick": "^0.14.11",
+    "react-swipeable-views": "^0.12.2",
     "react-tap-event-plugin": "^2.0.1"
   },
   "devDependencies": {
+    "react-alice-carousel": "^1.2.4",
     "react-scripts": "0.9.5"
   },
   "scripts": {
